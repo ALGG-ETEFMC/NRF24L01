@@ -7,7 +7,7 @@
 int channel[CHANNELS];
 
 //char grey[] = " .:-=+*aRW";   //Tipo de escala grey de displays
-char grey[]=" .:i!LIH$#@";
+char grey[]=" .:!456789";
 
 //Registradores do NRF24
 #define _NRF24_CONFIG      0x00
